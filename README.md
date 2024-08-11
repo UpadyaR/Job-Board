@@ -1,2 +1,2 @@
 <h1>Job Board Website</h1>
-Job board website using Django, HTML, and TailwindCSS
+This Job board website is created using Django, HTML, and TailwindCSS
